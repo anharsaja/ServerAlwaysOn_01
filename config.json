@@ -1,6 +1,6 @@
 {
-	"ip":"ilhamkintilnyakecil.aternos.me:22028",
-	"port": "25565",
+	"ip":"ilhamkintilnyakecil.aternos.me",
+	"port": "22028",
 	"name": "ilhambokep",
 	"auto-night-skip":"false"
 }
